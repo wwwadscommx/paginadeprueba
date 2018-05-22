@@ -1,0 +1,81 @@
+body {
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+.contenedor {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  height: 600px;
+  padding-bottom: 10px;
+  background-color: #D0CC95;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+}
+
+.contenedor2 {
+}
+
+.contenedor_acceso {
+  margin-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 320px;
+  height: 190px;
+  padding: 20px;
+  background-color: #D0CC95;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+}
+
+#bEnviarMensaje {
+  margin-left: 120px;
+}
+
+
+
+
+.titulos {
+  padding-top: 15px;
+  padding-right: 50px;
+  padding-bottom: 15px;
+  padding-left: 50px;
+}
+
+.usuario {
+  float: left;
+}
+
+.salir {
+  float: right;
+  color: red;
+}
+
+.limpiar {
+  clear: both;
+}
+
+#subcontenedor {
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 700px;
+  height: 480px;
+  padding-bottom: 0px;
+  background-color: #EFEEDC;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+}
+
+#mensaje {
+  margin-top: 40px;
+  background-color: #EFEEDC;
+  border: 1px;
+  border-style: solid;
+  border-color: black;
+}
